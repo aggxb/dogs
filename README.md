@@ -14,4 +14,4 @@ A Dogs foi construída com:
 - [Victory](https://github.com/FormidableLabs/victory) - Biblioteca para geração de gráficos
 
 ## ✒️ Autor
-- Gabriel Augusto Santos (com intermédio do André Rafael, criador e professor da [Origamid](https://www.origamid.com/)
+- Gabriel Augusto Santos (com intermédio do André Rafael, criador e professor da [Origamid](https://www.origamid.com/))
